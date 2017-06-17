@@ -1,0 +1,102 @@
+﻿/*!
+ * validation.css for NatRIX Software Private Limited
+ *
+ * Copyright 2014 v2.0.0
+ * Created By Amit Parekh
+ * Created Date 10/07/2014
+ * Modify By Amit Parekh
+ * Modify Date 18/09/2014
+ */
+
+/*------------------[ Label Classes ]------------------*/
+.required-label:after {
+    content: "*";
+    color: #ff0000;
+    margin-left: 5px;
+}
+
+/*------------------[ Input Textbox Border Format Classes ]------------------*/
+.required-text {
+    border: 1px solid #ff0000 !important;
+}
+
+/*------------------[ Span Tag Format Classes ]------------------*/
+.nat-err-msg {
+    font-size: 12px;
+    color: #FF0000;
+    display: block;
+}
+
+/*------------------[ Input Tag Classes ]------------------*/
+.nat-required {
+    /* Apply your css */
+}
+
+.nat-alphabet {
+    /* Apply your css */
+}
+
+.nat-number {
+    /* Apply your css */
+}
+
+.nat-alphanumeric {
+    /* Apply your css */
+}
+
+.nat-regex {
+    /* Apply your css */
+}
+
+.nat-string {
+    /* Apply your css */
+}
+
+.nat-email {
+    /* Apply your css */
+}
+
+.nat-url {
+    /* Apply your css */
+}
+
+.nat-compare {
+    /* Apply your css */
+}
+
+.nat-unique {
+    /* Apply your css */
+}
+
+.nat-custom {
+    /* Apply your css */
+}
+
+/*------------------[ Error Span Classes ]------------------*/
+.requirederrormessage {
+    /* Apply your css */
+}
+
+.valueerrormessage {
+    /* Apply your css */
+}
+
+.valuelengtherrormessage {
+    /* Apply your css */
+}
+
+.valuelimiterrormessage {
+    /* Apply your css */
+}
+
+.compareerrormessage {
+    /* Apply your css */
+}
+
+.uniqueerrormessage {
+    /* Apply your css */
+}
+
+.customerrormessage {
+    /* Apply your css */
+}

@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "MiniStatement";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section Scripts {
+    <script src="/scripts/app/AccountController.js"></script>
+}
+<h2>Mini Statement</h2>
+<div class="container" ng-controller="AccountController" ng-init="Account.Methods.GetAccountTransaction()">
+    <h3>Your Name : {{AccountInfo.Username}}</h3>
+    <h3>Your Account Numner : {{AccountInfo.AccountNo}}</h3>
+    <h3>Your available Balance USD : {{AccountInfo.CurrentBalance | number:3}}</h3>
+    <div ng-hide="Isprocess">
+        <div ng-hide="nodata">
+            <table class="table table-bordered">
+                <thead>
+                    <tr style="background-color: #C8C8C8;">
+
+                        <th style="text-align:center;" align="center">Serial Number</th>
+                        <th style="text-align:center;" align="center">Transaction Date</th>
+                        <th style="text-align:center;" align="center">Transaction Remark</th>
+                        <th style="text-align:center;" align="center">CR/DR</th>
+                        <th style="text-align:center;" align="center">Amount (USD)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="transaction in AccountTransactions">
+                        <td align="center">{{transaction.Index}}</td>
+                        <td align="center">{{ transaction.TrancationDate | jsonDate : 'dd/MM/yyyy hh:mm:ss' }}</td>
+                        <td align="right">{{transaction.Remark}}</td>
+                        <td align="center">{{transaction.TransactionType}}</td>
+                        <td align="center">{{transaction.Amount}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div ng-show="nodata">
+            <h3 style="color:red;">Something wrong occurs to getting account information</h3>
+            <a href="/Home/Login">Back to login</a>
+        </div>
+    </div>
+</div>

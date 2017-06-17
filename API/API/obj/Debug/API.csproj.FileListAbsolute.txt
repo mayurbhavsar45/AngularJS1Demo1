@@ -1,0 +1,313 @@
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\API.dll.config
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\API.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\API.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Antlr3.Runtime.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.Web.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.Web.Http.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\BLL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\DAL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\EntityFramework.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Microsoft.Data.Edm.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Microsoft.Data.OData.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Microsoft.Web.Infrastructure.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Newtonsoft.Json.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Spatial.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Helpers.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Http.OData.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Http.Tracing.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Mvc.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Optimization.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Providers.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Razor.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.WebPages.Deployment.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.WebPages.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.WebPages.Razor.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\WebGrease.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\BLL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Common.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\DAL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.Web.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.Web.Http.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\EntityFramework.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Newtonsoft.Json.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Helpers.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Mvc.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Razor.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.WebPages.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.WebPages.Deployment.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.WebPages.Razor.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Http.Tracing.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Web.Http.OData.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Microsoft.Data.Edm.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\Microsoft.Data.OData.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\System.Spatial.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\de\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\es\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\it\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\de\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\es\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\fr\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\it\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ja\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ko\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\ru\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\zh-Hans\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\bin\zh-Hant\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\obj\Debug\API.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\API\API\obj\Debug\API.pdb
+E:\jigarSource\MvcApplication1\API\API\bin\API.dll
+E:\jigarSource\MvcApplication1\API\API\bin\API.pdb
+E:\jigarSource\MvcApplication1\API\API\bin\Antlr3.Runtime.dll
+E:\jigarSource\MvcApplication1\API\API\bin\BLL.dll
+E:\jigarSource\MvcApplication1\API\API\bin\Common.dll
+E:\jigarSource\MvcApplication1\API\API\bin\DAL.dll
+E:\jigarSource\MvcApplication1\API\API\bin\EntityFramework.dll
+E:\jigarSource\MvcApplication1\API\API\bin\Microsoft.Data.Edm.dll
+E:\jigarSource\MvcApplication1\API\API\bin\Microsoft.Data.OData.dll
+E:\jigarSource\MvcApplication1\API\API\bin\Microsoft.Web.Infrastructure.dll
+E:\jigarSource\MvcApplication1\API\API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\jigarSource\MvcApplication1\API\API\bin\Newtonsoft.Json.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Spatial.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Helpers.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Http.OData.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Http.Tracing.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Mvc.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Optimization.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Providers.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Razor.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.WebPages.Deployment.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.WebPages.dll
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.WebPages.Razor.dll
+E:\jigarSource\MvcApplication1\API\API\bin\WebGrease.dll
+E:\jigarSource\MvcApplication1\API\API\bin\BLL.pdb
+E:\jigarSource\MvcApplication1\API\API\bin\Common.pdb
+E:\jigarSource\MvcApplication1\API\API\bin\DAL.pdb
+E:\jigarSource\MvcApplication1\API\API\bin\EntityFramework.xml
+E:\jigarSource\MvcApplication1\API\API\bin\Newtonsoft.Json.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Helpers.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Mvc.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Razor.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.WebPages.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.WebPages.Deployment.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.WebPages.Razor.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Http.Tracing.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Web.Http.OData.xml
+E:\jigarSource\MvcApplication1\API\API\bin\Microsoft.Data.Edm.xml
+E:\jigarSource\MvcApplication1\API\API\bin\Microsoft.Data.OData.xml
+E:\jigarSource\MvcApplication1\API\API\bin\System.Spatial.xml
+E:\jigarSource\MvcApplication1\API\API\bin\de\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\es\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\it\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\de\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\es\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\fr\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\it\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ja\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ko\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ru\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\de\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\es\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\fr\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\it\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ja\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ko\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\ru\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\zh-Hans\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\bin\zh-Hant\System.Spatial.resources.dll
+E:\jigarSource\MvcApplication1\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+E:\jigarSource\MvcApplication1\API\API\obj\Debug\API.dll
+E:\jigarSource\MvcApplication1\API\API\obj\Debug\API.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\API.dll.config
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\API.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\API.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Antlr3.Runtime.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.WebHost.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\BLL.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Common.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\DAL.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\EntityFramework.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.Edm.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.OData.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Web.Infrastructure.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Newtonsoft.Json.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Net.Http.Formatting.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Spatial.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Helpers.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.OData.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.Tracing.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.WebHost.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Mvc.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Optimization.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Providers.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Razor.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Deployment.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Razor.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\WebGrease.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\BLL.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Common.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\DAL.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.WebHost.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\EntityFramework.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Newtonsoft.Json.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Net.Http.Formatting.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Helpers.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.WebHost.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Mvc.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Razor.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Deployment.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Razor.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.Tracing.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.OData.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.Edm.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.OData.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Spatial.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\de\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\es\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\fr\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\it\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ja\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ko\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ru\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\de\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\es\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\fr\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\it\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ja\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ko\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ru\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\de\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\es\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\fr\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\it\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ja\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ko\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ru\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hans\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hant\System.Spatial.resources.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\obj\Debug\API.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\obj\Debug\API.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\API.dll.config
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\API.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\API.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Antlr3.Runtime.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\BLL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\DAL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\EntityFramework.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.Edm.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.OData.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Web.Infrastructure.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Newtonsoft.Json.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Spatial.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Helpers.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.OData.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.Tracing.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Mvc.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Optimization.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Providers.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Razor.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Deployment.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Razor.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\WebGrease.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\BLL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Common.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\DAL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\EntityFramework.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Newtonsoft.Json.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Helpers.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Mvc.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Razor.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Deployment.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.WebPages.Razor.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.Tracing.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Web.Http.OData.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.Edm.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\Microsoft.Data.OData.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\System.Spatial.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\de\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\es\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\it\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\de\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\es\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\fr\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\it\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ja\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ko\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\ru\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hans\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\bin\zh-Hant\System.Spatial.resources.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\obj\Debug\API.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\API\API\obj\Debug\API.pdb

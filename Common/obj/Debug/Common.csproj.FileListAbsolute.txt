@@ -1,0 +1,15 @@
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\Common\bin\Debug\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\Common\bin\Debug\Common.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\Common\obj\Debug\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\Common\obj\Debug\Common.pdb
+E:\jigarSource\MvcApplication1\Common\bin\Debug\Common.dll
+E:\jigarSource\MvcApplication1\Common\bin\Debug\Common.pdb
+E:\jigarSource\MvcApplication1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\jigarSource\MvcApplication1\Common\obj\Debug\Common.dll
+E:\jigarSource\MvcApplication1\Common\obj\Debug\Common.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\Common\bin\Debug\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\Common\bin\Debug\Common.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\Common\obj\Debug\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\Common\obj\Debug\Common.pdb

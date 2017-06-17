@@ -1,0 +1,33 @@
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\BLL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\BLL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\DAL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\EntityFramework.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\Common.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\DAL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\bin\Debug\EntityFramework.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\obj\Debug\BLL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\MvcApplication1\BLL\obj\Debug\BLL.pdb
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\BLL.dll
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\BLL.pdb
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\Common.dll
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\DAL.dll
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\EntityFramework.dll
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\Common.pdb
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\DAL.pdb
+E:\jigarSource\MvcApplication1\BLL\bin\Debug\EntityFramework.xml
+E:\jigarSource\MvcApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\jigarSource\MvcApplication1\BLL\obj\Debug\BLL.dll
+E:\jigarSource\MvcApplication1\BLL\obj\Debug\BLL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\BLL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\BLL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\Common.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\DAL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\EntityFramework.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\Common.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\DAL.pdb
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Debug\EntityFramework.xml
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\obj\Debug\BLL.dll
+D:\Native Live Project\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\obj\Debug\BLL.pdb

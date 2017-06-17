@@ -1,0 +1,72 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Online Banking App </title>
+    <link href="/Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/font-awesome.css" rel="stylesheet" />
+    <link href="/Content/validation.css" rel="stylesheet" />
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/0.4.15/toaster.min.css" rel="stylesheet" />
+
+    <script src="/scripts/jquery-1.9.1.js"></script>
+    <script src="/scripts/bootstrap.js"></script>
+
+    <script src="/scripts/moment.js"></script>
+    <script src="/scripts/angular.js"></script>
+    <script src="/scripts/angular-animate.min.js"></script>
+    <script src="/scripts/toaster.js"></script>
+    <script src="/scripts/ui-bootstrap-tpls-0.13.0.min.js"></script>
+    <script src="/scripts/angular-resource.min.js"></script>
+    <script src="/scripts/app/app.js"></script>
+    <script src="/scripts/app/CommonController.js"></script>
+    <script src="/scripts/bootstrap-timepicker.min.js"></script>
+    <script src="/scripts/Script.js"></script>
+    <script src="../scripts/validation.js"></script>
+
+    @RenderSection("scripts", required: false)
+</head>
+<body xmlns:ng="http://angularjs.org" ng-app="app">
+    <div class="container main-contain">
+        <toaster-container toaster-options="{'time-out': 3000}"></toaster-container>
+        <div class="border-btm">
+            <div ng-controller="CommonController" ng-init="init()" class="row">
+                <div class="col-xs-10 col-sm-10 col-md-10">
+                    <span class="welcome-msg">
+                        Logged in with EmailID
+                        <br />
+                        (Your Name: {{Username}})
+                    </span>
+                </div>
+                <div class="col-xs-2 col-sm-2 col-md-2">
+                    <a href="#" ng-click="Logout()" class="btn btn-danger pull-right"><i class="icon-off"></i></a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-2">
+                <a href="/Admin/Dashboard">Dashboard</a><br />
+                <a href="/Admin/Deposit">Deposit</a><br />
+                <a href="/Admin/Withdraw">Withdraw</a><br />
+                <a href="/Admin/MiniStatement">Statements</a><br />
+                <a href="/Admin/Transfer">Transfer</a>
+            </div>
+            <div class="col-md-10">
+                @RenderBody()
+            </div>
+           
+        </div>
+        <div id="loaderDIV" class="loader-div" style="display: none;">
+            <img src="/img/red-lg-loader.gif" />
+        </div>
+    </div>
+</body>
+</html>

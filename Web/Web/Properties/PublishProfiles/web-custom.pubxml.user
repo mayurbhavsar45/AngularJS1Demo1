@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\publish\web</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>11/26/2015 12:51:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>11/26/2015 12:51:20</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/26/2015 12:51:19</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>11/26/2015 12:51:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/26/2015 12:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>11/26/2015 12:51:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>11/26/2015 12:51:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>11/26/2015 12:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/26/2015 12:51:19</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>11/26/2015 12:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>11/26/2015 12:51:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>11/26/2015 12:51:20</publishTime>
+    </File>
+    <File Include="bin/Web.dll">
+      <publishTime>12/01/2015 16:28:39</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="Content/bootstrap-timepicker.css">
+      <publishTime>04/20/2015 11:43:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap-timepicker.min.css">
+      <publishTime>07/23/2015 18:28:55</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="Content/font-awesome.css">
+      <publishTime>07/23/2015 17:18:37</publishTime>
+    </File>
+    <File Include="Content/font-awesome.min.css">
+      <publishTime>07/23/2015 17:15:41</publishTime>
+    </File>
+    <File Include="Content/font/fontawesome-webfont.eot">
+      <publishTime>07/23/2015 17:15:41</publishTime>
+    </File>
+    <File Include="Content/font/fontawesome-webfont.svg">
+      <publishTime>07/23/2015 17:15:41</publishTime>
+    </File>
+    <File Include="Content/font/fontawesome-webfont.ttf">
+      <publishTime>07/23/2015 17:15:41</publishTime>
+    </File>
+    <File Include="Content/font/fontawesome-webfont.woff">
+      <publishTime>07/23/2015 17:15:41</publishTime>
+    </File>
+    <File Include="Content/font/FontAwesome.otf">
+      <publishTime>07/23/2015 17:15:41</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>07/24/2015 18:24:29</publishTime>
+    </File>
+    <File Include="Content/toaster.css">
+      <publishTime>07/01/2015 04:39:31</publishTime>
+    </File>
+    <File Include="Content/validation.css">
+      <publishTime>12/22/2014 10:34:07</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="img/red-lg-loader.gif">
+      <publishTime>07/23/2015 15:13:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/26/2015 16:53:41</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/01/2015 16:28:45</publishTime>
+    </File>
+    <File Include="scripts/angular-animate.min.js">
+      <publishTime>07/24/2015 12:16:03</publishTime>
+    </File>
+    <File Include="scripts/angular-mocks.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/angular-resource.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/angular-resource.min.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/angular-resource.min.js.map">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/angular.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/angular.min.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/angular.min.js.map">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/App/AccountController.js">
+      <publishTime>12/01/2015 15:05:06</publishTime>
+    </File>
+    <File Include="scripts/App/app.js">
+      <publishTime>11/28/2015 12:44:30</publishTime>
+    </File>
+    <File Include="scripts/App/BookingController.js">
+      <publishTime>07/25/2015 14:52:56</publishTime>
+    </File>
+    <File Include="scripts/App/CommonController.js">
+      <publishTime>11/28/2015 13:32:17</publishTime>
+    </File>
+    <File Include="scripts/App/data.js">
+      <publishTime>07/23/2015 12:24:37</publishTime>
+    </File>
+    <File Include="scripts/App/LoginController.js">
+      <publishTime>12/01/2015 15:06:19</publishTime>
+    </File>
+    <File Include="scripts/App/MessageController.js">
+      <publishTime>07/25/2015 14:27:14</publishTime>
+    </File>
+    <File Include="scripts/App/RegisterController.js">
+      <publishTime>12/01/2015 14:59:13</publishTime>
+    </File>
+    <File Include="scripts/App/TimePickerController.js">
+      <publishTime>07/24/2015 02:30:56</publishTime>
+    </File>
+    <File Include="scripts/bootstrap-timepicker.js">
+      <publishTime>04/08/2015 17:34:08</publishTime>
+    </File>
+    <File Include="scripts/bootstrap-timepicker.min.js">
+      <publishTime>07/23/2015 18:28:55</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.min.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.9.1.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.9.1.min.js">
+      <publishTime>07/23/2015 12:24:36</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.9.1.min.map">
+      <publishTime>07/23/2015 12:24:37</publishTime>
+    </File>
+    <File Include="scripts/moment.js">
+      <publishTime>07/23/2015 17:08:19</publishTime>
+    </File>
+    <File Include="scripts/Script.js">
+      <publishTime>07/24/2015 11:38:35</publishTime>
+    </File>
+    <File Include="scripts/toaster.js">
+      <publishTime>07/24/2015 12:10:52</publishTime>
+    </File>
+    <File Include="scripts/ui-bootstrap-tpls-0.13.0.min.js">
+      <publishTime>07/23/2015 18:42:42</publishTime>
+    </File>
+    <File Include="scripts/validation.js">
+      <publishTime>08/02/2014 12:44:44</publishTime>
+    </File>
+    <File Include="Views/Admin/Dashboard.cshtml">
+      <publishTime>11/29/2015 15:08:23</publishTime>
+    </File>
+    <File Include="Views/Admin/Deposit.cshtml">
+      <publishTime>11/29/2015 14:29:28</publishTime>
+    </File>
+    <File Include="Views/Admin/MiniStatement.cshtml">
+      <publishTime>11/30/2015 15:19:58</publishTime>
+    </File>
+    <File Include="Views/Admin/Transfer.cshtml">
+      <publishTime>12/01/2015 11:54:50</publishTime>
+    </File>
+    <File Include="Views/Admin/Withdraw.cshtml">
+      <publishTime>11/30/2015 16:36:19</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>11/27/2015 10:47:32</publishTime>
+    </File>
+    <File Include="Views/Home/Login.cshtml">
+      <publishTime>11/28/2015 13:21:42</publishTime>
+    </File>
+    <File Include="Views/Home/Register.cshtml">
+      <publishTime>12/01/2015 15:23:23</publishTime>
+    </File>
+    <File Include="Views/Home/ValidateToken.cshtml">
+      <publishTime>12/01/2015 12:13:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>11/30/2015 16:36:07</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>11/26/2015 16:53:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/01/2015 16:28:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

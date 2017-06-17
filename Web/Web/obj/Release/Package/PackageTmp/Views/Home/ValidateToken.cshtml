@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ValidateToken</title>
+   @* <link href="/Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/font-awesome.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/0.4.15/toaster.min.css" rel="stylesheet" />
+
+    <script src="/scripts/jquery-1.9.1.js"></script>
+    <script src="/scripts/bootstrap.js"></script>
+    <script src="/scripts/angular.js"></script>
+    <script src="/scripts/ui-bootstrap-tpls-0.13.0.min.js"></script>
+    <script src="/scripts/angular-resource.min.js"></script>
+
+    <script src="/scripts/app/app.js"></script>
+    <script src="/scripts/app/RegisterController.js"></script>
+    <script src="/scripts/Script.js"></script>
+    <script src="/scripts/validation.js"></script>*@
+
+      <link href="/Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/0.4.15/toaster.min.css" rel="stylesheet" />
+
+    <script src="/scripts/jquery-1.9.1.js"></script>
+    <script src="/scripts/bootstrap.js"></script>
+    <script src="/scripts/angular.js"></script>
+    <script src="/scripts/angular-animate.min.js"></script>
+    <script src="/scripts/toaster.js"></script>
+    <script src="/scripts/ui-bootstrap-tpls-0.13.0.min.js"></script>
+    <script src="/scripts/angular-resource.min.js"></script>
+
+    <script src="/scripts/app/app.js"></script>
+    <script src="/scripts/app/RegisterController.js"></script>
+    <script src="/scripts/Script.js"></script>
+    <script src="/scripts/validation.js"></script>
+</head>
+<body ng-app="app">
+     <toaster-container toaster-options="{'time-out': 50000}"></toaster-container>
+    <div class="container" ng-controller="RegisterController" ng-init="validateTokenInit()">
+        <div id="loaderDIV" class="loader-div" style="display: none;">
+            <img src="/img/red-lg-loader.gif" />
+            <h1>Please validating your account</h1>
+        </div>
+
+        <div class="success" ng-show="isvarified">
+            <h1 style="color:green;" ng-show="isvarifiedsuccess">Your account varified successfully</h1>
+            <h1 style="color:red;" ng-hide="isvarifiedsuccess">Your account is not varified successfully</h1>
+            <a href="/Home/Login" ng-show="isvarifiedsuccess">Click here to Login</a>
+            <a href="/Home/Register" ng-hide="isvarifiedsuccess">Click here to register again</a>
+        </div>
+    </div>
+</body>
+</html>

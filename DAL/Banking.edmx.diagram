@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6fdc00d77c964d91964b341b5b7938d6" Name="Diagram1">
+        <EntityTypeShape EntityType="BankTestModel.AccountType" Width="1.5" PointX="7.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_Applications" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_Membership" Width="1.5" PointX="6" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_Paths" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_PersonalizationAllUsers" Width="1.5" PointX="5.25" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_PersonalizationPerUser" Width="1.5" PointX="5.25" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_Profile" Width="1.5" PointX="10.5" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_Roles" Width="1.5" PointX="3" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_SchemaVersions" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_Users" Width="1.5" PointX="8.25" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.aspnet_WebEvent_Events" Width="1.5" PointX="2.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.Branch" Width="1.5" PointX="7.75" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.TransactionType" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.UserBankAccount" Width="1.5" PointX="10" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.UserDetail" Width="1.5" PointX="7.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.UserProfile" Width="1.5" PointX="3" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.UserTransaction" Width="1.5" PointX="13" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.webpages_Membership" Width="1.5" PointX="10.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.webpages_OAuthMembership" Width="1.5" PointX="12.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankTestModel.webpages_Roles" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <AssociationConnector Association="BankTestModel.FK_UserBankAccount_AccountTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Me__Appli__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Pa__Appli__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Ro__Appli__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Us__Appli__173876EA" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Me__UserI__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Pe__PathI__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Pe__PathI__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Pe__UserI__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK__aspnet_Pr__UserI__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK_UserBankAccount_Branches" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK_UserTransactions_TransactionTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK_UserBankAccount_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.FK_UserTransactions_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.aspnet_UsersInRoles" ManuallyRouted="false" />
+        <AssociationConnector Association="BankTestModel.webpages_UsersInRoles" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="BankTestModel.Token" Width="1.5" PointX="10" PointY="16.625" />
+        <AssociationConnector Association="BankTestModel.FK_Token_UserDetails" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

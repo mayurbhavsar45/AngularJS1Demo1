@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Withdraw";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section Scripts {
+    <script src="/scripts/app/AccountController.js"></script>
+}
+<h2>Withdraw</h2>
+<div class="container" ng-controller="AccountController">
+    <h3 style="float:right;">Your available Balance USD : {{AccountInfo.CurrentBalance | number:3}}</h3>    
+    <form>
+        <div class="form-group ">
+            <label for="accountno">Bank Account Number</label>
+            <label id="accountno" class="form-control">{{AccountInfo.AccountNo}}</label>
+        </div>
+        <div class="form-group">
+            <label class="" for="TXTDepositAmount">Cash Withdraw Amount</label>
+            <input type="text" id="TXTDepositAmount" class="nat-required nat-number form-control" ng-model="Account.Withdraw.WithdrawAmount" value="" placeholder="Enter valid deposit amount" requirederrormessage="Enter deposit amount." valueerrormessage="Allow only digits" />
+        </div>
+        <div class="form-group">
+            <label class="" for="TXTDepositRemark">Remark</label>
+            <input type="text" id="TXTDepositRemark" class="nat-required form-control" ng-model="Account.Withdraw.Remark" value="" placeholder="Enter transaction remark" requirederrormessage="Remark must required" />
+        </div>
+        <div class="form-group">
+            <label class="" for="TXTDepositAmount">Transaction Password</label>
+            <input type="password" class="nat-required form-control" id="TXTTransactionPassword" ng-model="Account.Withdraw.TransactionPassword" value="" requirederrormessage="Transaction password must required" placeholder="Enter your valid transaction password" />
+        </div>
+
+        <input type="button" class="btn btn-success"
+               ng-click="Account.Methods.CashWithdraw()" value="Withdraw" />
+    </form>
+
+
+
+</div>

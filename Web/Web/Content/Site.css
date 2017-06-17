@@ -1,0 +1,206 @@
+﻿body {
+}
+
+.welcome-block h2 {
+    text-align: center;
+    padding: 20px 5px;
+    text-transform: uppercase;
+}
+
+.welcome-block h4 {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.welcome-block .btnlogin {
+    border-top: 1px solid #ddd;
+    padding: 5px 25px 5px 10px;
+    font-size: 14px;
+    color: #666;
+    position: relative;
+    display:block;
+}
+    .welcome-block .btnlogin:last-child {
+        border-bottom: 1px solid #ddd;
+    }
+.loader-div img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px;
+    margin-top: -50px;
+}
+
+.loader-div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(253, 253, 253, 0.57);
+}
+
+.ng-invalid.ng-dirty {
+    border-color: #FF0000;
+}
+
+.control-form .ng-invalid.ng-dirty {
+    background-color: #FF0000;
+}
+
+.has-error {
+    background-color: #FF0000;
+}
+
+/*.ng-valid.ng-dirty {
+    border-color: #78FA89;
+}*/
+
+
+label {
+    font-weight: bold;
+    display: block;
+    width: 150px;
+    float: left;
+}
+
+.main-contain, .welcome-block {
+    padding: 15px 0;
+}
+
+.welcome-msg {
+    color: rgb(0, 53, 148);
+    font-size: 18px;
+}
+
+.border-btm {
+    padding: 5px 5px 10px 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.select-title {
+    margin-top: 30px;
+    border-top: 1px solid #ddd;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #222;
+    position: relative;
+    text-transform: uppercase;
+}
+
+    .select-title > a {
+        position: absolute;
+        right: 5px;
+        top: 2px;
+        padding: 3px;
+        background-color: #efefef;
+    }
+
+        .select-title > a i {
+            margin-right: 5px;
+        }
+
+        .select-title > a:hover {
+            background-color: #222;
+            color: #fff;
+            text-decoration: none;
+        }
+
+.select-subtitle {
+    border-top: 1px solid #ddd;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 13px;
+    color: #444;
+}
+
+.bokking-list > a {
+    position: relative;
+    border-top: 1px solid #ddd;
+    padding: 5px 20px 5px 5px;
+    font-size: 14px;
+    color: #666;
+    display: block;
+}
+
+.bokking-list i, .welcome-block .btnlogin i {
+    position: absolute;
+    font-size: 23px;
+    right: 5px;
+    top: 5px;
+    cursor: pointer;
+    color: #0077DB;
+}
+
+.bokking-list > a:hover, .btnenter > a:hover, .welcome-block .btnlogin:hover {
+    text-decoration: none;
+    color: #0077DB;
+}
+
+    .bokking-list > a:hover i, .btnenter > a:hover i, .welcome-block .btnlogin:hover i {
+        color: #000;
+    }
+
+.ent-title {
+    border-bottom: 1px solid #ddd;
+    padding: 5px;
+    border-top: 1px solid #ddd;
+}
+
+.msglist {
+    padding: 5px;
+    border-top: 1px solid #ddd;
+}
+
+.timeblock {
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.rdogroup {
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
+    .rdogroup > span {
+        margin-bottom: 10px;
+        display: block;
+    }
+
+.textarear_block {
+    margin: 10px 0;
+}
+
+    .textarear_block textarea {
+        background-color: #fff !important;
+    }
+
+.btnenter > a {
+    position: relative;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding: 5px 20px 5px 5px;
+    font-size: 14px;
+    color: #666;
+    display: block;
+    background-color: #eee;
+}
+
+    .btnenter > a i {
+        position: absolute;
+        font-size: 23px;
+        right: 5px;
+        top: 5px;
+        cursor: pointer;
+        color: #0077DB;
+    }
+
+
+@media (max-width:767px) {
+    .welcome-msg {
+        font-size: 16px;
+    }
+}

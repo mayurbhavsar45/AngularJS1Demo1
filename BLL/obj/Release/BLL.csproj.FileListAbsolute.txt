@@ -1,0 +1,11 @@
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\BLL.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\BLL.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\Common.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\DAL.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\EntityFramework.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\Common.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\DAL.pdb
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\bin\Release\EntityFramework.xml
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\obj\Release\BLL.dll
+\\NS103\Odesk Projects\Test\Andrew\Final MVC_Demo\BLL\obj\Release\BLL.pdb

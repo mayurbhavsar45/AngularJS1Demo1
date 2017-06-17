@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts {
+    <script src="/scripts/app/AccountController.js"></script>
+}
+
+
+
+
+<h2>Dashboard</h2>
+
+
+    
+    <div class="dashboard" ng-controller="AccountController">
+        <h3>Your Account Informations</h3>
+        <div ng-hide="Isprocess">
+            <div ng-hide="nodata">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr style="background-color: #C8C8C8;">
+
+                            <th style="text-align:center;" align="center">Account Name</th>
+                            <th style="text-align:center;" align="center">Acount Number</th>
+                            <th style="text-align:center;" align="center">Available Balance</th>
+                            <th style="text-align:center;" align="center">Account Type</th>
+                            <th style="text-align:center;" align="center">Branch</th>
+                            <th style="text-align:center;" align="center">Currency</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="center">{{AccountInfo.Username}}</td>
+                            <td align="center">{{AccountInfo.AccountNo}}</td>
+                            <td align="right">{{AccountInfo.CurrentBalance | number:3}}</td>
+                            <td align="center">{{AccountInfo.AccountType}}</td>
+                            <td align="center">{{AccountInfo.BranchName}}</td>
+                            <td align="center">USD</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="row">
+                    <div class="col-md-8">
+                        <button type="button" class="btn btn-default btn-sm">Get Mini Statements</button>
+                        <button type="button" class="btn btn-default btn-sm">Details Statements</button>   
+                     </div>
+
+                </div>
+            </div>
+            <div ng-show="nodata">
+                <h3 style="color:red;">Something wrong occurs to getting account information</h3>
+                <a href="/Home/Login">Back to login</a>
+            </div>
+        </div>
+    </div>

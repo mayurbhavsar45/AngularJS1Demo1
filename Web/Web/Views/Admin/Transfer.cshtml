@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Transfer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts {
+    <script src="/scripts/app/AccountController.js"></script>
+     <script src="/scripts/validation.js"></script>
+}
+<h2>Transfer Money</h2>    
+    <div class="container" ng-controller="AccountController">      
+    <form id="frmtransfer" name="frmtransfer">
+        <div class="form-group ">
+            <label for="accountno">Account Number</label>           
+            <input type="text" id="TXTAccountNo" class="nat-required nat-number form-control" ng-model="TransferAccountInfo.AccountNo" value="" ng-blur="Account.Methods.checkAccountAvailability()" placeholder="Enter valid AccountNo" requirederrormessage="Enter AccountNo." valueerrormessage="Allow only digits" />
+        </div>
+        <div class="form-group">
+            <label class="" for="TXTDepositAmount">Transferable Amount</label>
+            <input type="text" id="TXTDepositAmount" class="nat-required nat-number form-control" ng-model="Account.Withdraw.WithdrawAmount" value="" placeholder="Enter valid deposit amount" requirederrormessage="Enter deposit amount." valueerrormessage="Allow only digits" />
+        </div>      
+        <div class="form-group">
+            <label class="" for="TXTDepositAmount">Transaction Password</label>
+            <input type="password" class="nat-required form-control" id="TXTTransactionPassword" ng-model="Account.Withdraw.TransactionPassword" value="" requirederrormessage="Transaction password must required" placeholder="Enter your valid transaction password" />
+        </div>
+
+        <input type="button" class="btn btn-success"
+               ng-click="Account.Methods.CashTransfer()"  ng-disabled="frmtransfer.$invalid" value="Transfer" />
+    </form>
+</div>
